@@ -6,13 +6,13 @@
 
 ## 📸 Dashboard Preview
 
-![Hotel Performance & Cancellation Analysis Dashboard](Dashboard%20Screenshots/Dashboard_Overview.png)
+![Hotel Performance & Cancellation Analysis Dashboard](Dashboard_Screenshots/Dashboard_Overview.png)
 
 ---
 
 ## 📊 Pivot Table Summary
 
-![Pivot Tables](Dashboard%20Screenshots/Pivot_Tables.png)
+![Pivot Tables](Dashboard_Screenshots/Pivot_Tables.png)
 
 ---
 
