@@ -12,8 +12,7 @@
 
 ## 📊 Pivot Table Summary
 
-![Pivot Tables](https://img.shields.io/badge/View-Booking_Analysis-blue?style=for-the-badge&logo=microsoftexcel)](Hotel-Booking-Analytics/Dashboard_Screenshots/booking_analysis.png)
-
+[Pivot Tables](Hotel-Booking-Analytics/Dashboard_Screenshots/booking_analysis.png)
 ---
 
 ## 🎯 Project Objective
