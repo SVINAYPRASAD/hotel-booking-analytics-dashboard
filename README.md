@@ -13,6 +13,7 @@
 ## 📊 Pivot Table Summary
 
 [Pivot Tables](Hotel-Booking-Analytics/Dashboard_Screenshots/booking_analysis.png)
+
 ---
 
 ## 🎯 Project Objective
