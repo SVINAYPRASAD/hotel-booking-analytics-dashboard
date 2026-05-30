@@ -6,7 +6,7 @@
 
 ## 📸 Dashboard Preview
 
-![Hotel Performance & Cancellation Analysis Dashboard](https://img.shields.io/badge/View-Dashboard_Overview-blue?style=for-the-badge&logo=microsoftexcel)](Hotel-Booking-Analytics/Dashboard_Screenshots/Dashboard_Overview.png)
+[![Hotel Performance & Cancellation Analysis Dashboard](https://img.shields.io/badge/View-Dashboard_Overview-blue?style=for-the-badge&logo=microsoftexcel)](Dashboard_Screenshots/Dashboard_Overview.png)
 
 ---
 
