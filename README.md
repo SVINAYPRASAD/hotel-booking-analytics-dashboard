@@ -6,13 +6,13 @@
 
 ## 📸 Dashboard Preview
 
-![Hotel Performance & Cancellation Analysis Dashboard](Dashboard Screenshots/Dashboard_Overview.png)
+![Hotel Performance & Cancellation Analysis Dashboard](Dashboard%20Screenshots/Dashboard_Overview.png)
 
 ---
 
 ## 📊 Pivot Table Summary
 
-![Pivot Tables](Dashboard Screenshots/Pivot_Tables.png)
+![Pivot Tables](Dashboard%20Screenshots/Pivot_Tables.png)
 
 ---
 
@@ -120,7 +120,7 @@ Hotels lose significant revenue due to booking cancellations and unmatched room 
 ```
 Hotel-Booking-Analytics/
 │
-├── Dashboard Screenshots/
+├── Dashboard%20Screenshots/
 │   ├── Dashboard_Overview.png               # Main dashboard screenshot
 │   └── Pivot_Tables.png                     # Pivot table screenshot
 ├── Hotel_Booking_Analytics_Dashboard.xlsx   # Full workbook: raw data + pivot tables + dashboard
