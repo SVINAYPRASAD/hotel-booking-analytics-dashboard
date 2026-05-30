@@ -6,7 +6,7 @@
 
 ## 📸 Dashboard Preview
 
-[Hotel Performance & Cancellation Analysis Dashboard](Dashboard_Screenshots/Dashboard_Overview.png)
+[Hotel Performance & Cancellation Analysis Dashboard](Hotel-Booking-Analytics/Dashboard_Screenshots/Dashboard_Overview.png)
 
 ---
 
