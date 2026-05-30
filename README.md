@@ -6,13 +6,13 @@
 
 ## 📸 Dashboard Preview
 
-![Hotel Performance & Cancellation Analysis Dashboard](Hotel-Booking-Analytics/Dashboard_Screenshots/Dashboard_Overview.png)
+![Hotel Performance & Cancellation Analysis Dashboard](https://img.shields.io/badge/View-Dashboard_Overview-blue?style=for-the-badge&logo=microsoftexcel)](Hotel-Booking-Analytics/Dashboard_Screenshots/Dashboard_Overview.png)
 
 ---
 
 ## 📊 Pivot Table Summary
 
-![Pivot Tables](Hotel-Booking-Analytics/Dashboard_Screenshots/booking_analysis.png)
+![Pivot Tables](https://img.shields.io/badge/View-Booking_Analysis-blue?style=for-the-badge&logo=microsoftexcel)](Hotel-Booking-Analytics/Dashboard_Screenshots/booking_analysis.png)
 
 ---
 
